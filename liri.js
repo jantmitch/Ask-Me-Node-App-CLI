@@ -103,6 +103,7 @@ function movieSearch() {
                 console.log("Plot: " + JSON.parse(body).Plot);
                 console.log("Actors: " + JSON.parse(body).Actors);
             } else {
+                console.log("im here");
                 var queryUrl = "http://www.omdbapi.com/?t=Mr.+Nobody&y=&plot=short&apikey=trilogy";
             }
         })
