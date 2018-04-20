@@ -30,7 +30,7 @@ You can run a test for the Spotify API by typing the command: node liri.js spoti
 
 You can run a test for the OMDB movie API by typing the command: node liri.js movie-this followed by the title of any movie. This will return the name of the movie, the year it was released, IMDB rating, Rotten Tomatoes rating, country it was produced in, the language of the movie, and the actors/actresses in the movie. It will look like this: 
 
-
+![image](https://user-images.githubusercontent.com/32659410/39075496-ed51368e-44c3-11e8-8c4c-1e190d35d52f.png)
 
 
 
