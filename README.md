@@ -24,7 +24,12 @@ You can run a test for the Twitter API by typing the command: node liri.js my-tw
 
 ![image](https://user-images.githubusercontent.com/32659410/39075291-fb320bbc-44c2-11e8-83d8-d533a8136984.png)
 
-You can run a test for the Spotify API by typing the comman: node liri.js spotify-this-song followed by any song name. This will return the song name, artist, album, and a link to Spotify. It will look like this: 
+You can run a test for the Spotify API by typing the command: node liri.js spotify-this-song followed by any song name. This will return the song name, artist, album, and a link to Spotify. It will look like this: 
+
+![image](https://user-images.githubusercontent.com/32659410/39075400-68c6287a-44c3-11e8-98a3-1292ee4488fb.png)
+
+You can run a test for the OMDB movie API by typing the command: node liri.js movie-this followed by the title of any movie. This will return the name of the movie, the year it was released, IMDB rating, Rotten Tomatoes rating, country it was produced in, the language of the movie, and the actors/actresses in the movie. It will look like this: 
+
 
 
 
