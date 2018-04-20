@@ -18,7 +18,7 @@ node install dotenv
 
 You will also need to create your own .env file with API keys for twitter, spotify, and OMDB.
 
-#Running Application Test
+# Running Application Test
 
 You can run a test for the Twitter API by typing the command: node liri.js my-tweets. This will return the latest 20 tweets from specified account. It will look like this:
 
