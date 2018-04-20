@@ -22,6 +22,10 @@ You will also need to create your own .env file with API keys for twitter, spoti
 
 You can run a test for the Twitter API by typing the command: node liri.js my-tweets. This will return the latest 20 tweets from specified account. It will look like this:
 
+![image](https://user-images.githubusercontent.com/32659410/39075291-fb320bbc-44c2-11e8-83d8-d533a8136984.png)
+
+You can run a test for the Spotify API by typing the comman: node liri.js spotify-this-song followed by any song name. This will return the song name, artist, album, and a link to Spotify. It will look like this: 
+
 
 
 
