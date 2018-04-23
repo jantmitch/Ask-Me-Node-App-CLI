@@ -11,10 +11,10 @@ Once the repo is cloned, you will be running all of the commands in your Mac ter
 
 There are a few things you will need to get the application running. You will need to install a few npm packages to run the commands. When you have the repo cloned to your local drive, and you are in the git directory, these are the packages you will need to install:
 
-npm install twitter
-npm install node-spotify-api
-node install request
-node install dotenv
+* npm install twitter
+* npm install node-spotify-api
+* node install request
+* node install dotenv
 
 You will also need to create your own .env file with API keys for twitter, spotify, and OMDB.
 
