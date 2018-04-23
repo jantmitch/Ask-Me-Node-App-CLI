@@ -34,6 +34,16 @@ You can run a test for the OMDB movie API by typing the command: node liri.js mo
 
 There is also a test that can be run to make sure that the 'random.txt' file is linked to the application. When at the command line the user can type: node liri.js do-what-it-says . This will apply the text in the 'random.txt' file and run it through one of the aforementioned tasks. It will look like this:
 
+![image](https://user-images.githubusercontent.com/32659410/39133637-a67f0d78-46e2-11e8-9b26-77675a1671d0.png)
+
+# Application Built With
+
+* Node.js
+* Javascript
+
+# Author
+Anthony Mitchell
+
 
 
 
